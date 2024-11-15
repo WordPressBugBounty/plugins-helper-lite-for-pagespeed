@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'seojacky/helper-lite-for-pagespeed',
-        'pretty_version' => '3.1.6.2',
-        'version' => '3.1.6.2',
-        'reference' => '152f1dcb64716fafb1fde7ee5116083162bdf1fd',
+        'pretty_version' => '3.1.7',
+        'version' => '3.1.7.0',
+        'reference' => 'b884dc4fc8b12704c6836d5d0451599e5094d5bb',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'seojacky/helper-lite-for-pagespeed' => array(
-            'pretty_version' => '3.1.6.2',
-            'version' => '3.1.6.2',
-            'reference' => '152f1dcb64716fafb1fde7ee5116083162bdf1fd',
+            'pretty_version' => '3.1.7',
+            'version' => '3.1.7.0',
+            'reference' => 'b884dc4fc8b12704c6836d5d0451599e5094d5bb',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
